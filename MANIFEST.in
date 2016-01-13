@@ -1,0 +1,5 @@
+include *.md
+include *.py
+include *.cfg
+recursive-include kernel_eca *.py
+include LICENSE
