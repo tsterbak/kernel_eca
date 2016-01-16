@@ -36,8 +36,8 @@ AUTHOR = "Tobias Sterbak"
 AUTHOR_EMAIL = "sterbak-it@outlook.com"
 MAINTAINER = "Tobias Sterbak"
 MAINTAINER_EMAIL = "sterbak-it@outlook.com"
-URL = 'http://github.com/...'
-DOWNLOAD_URL = 'http://github.com/...'
+URL = 'http://github.com/tsterbak/kernel_eca'
+DOWNLOAD_URL = 'http://github.com/tsterbak/kernel_eca'
 LICENSE = 'BSD'
 
 VERSION = version('KECA/__init__.py')
