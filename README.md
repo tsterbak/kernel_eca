@@ -26,5 +26,7 @@ A basic example of its use can be found in [Example.ipynb](Example.ipynb).
 ## More Informations
 The implementation is based on
 ```
-`R. Jenssen, "Kernel Entropy Component Analysis," IEEE Transactions on Pattern Analysis and Machine Intelligence, 32(5), 847-860, 2010. 
+R. Jenssen, "Kernel Entropy Component Analysis," 
+IEEE Transactions on Pattern Analysis and Machine 
+Intelligence, 32(5), 847-860, 2010. 
 ```
