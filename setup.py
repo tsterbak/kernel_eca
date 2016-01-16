@@ -40,7 +40,7 @@ URL = 'http://github.com/tsterbak/kernel_eca'
 DOWNLOAD_URL = 'http://github.com/tsterbak/kernel_eca'
 LICENSE = 'BSD'
 
-VERSION = version('KECA/__init__.py')
+VERSION = version('kernel_eca/__init__.py')
 
 setup(name=NAME,
       version=VERSION,
