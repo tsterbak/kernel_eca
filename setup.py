@@ -53,7 +53,7 @@ setup(name=NAME,
       url=URL,
       download_url=DOWNLOAD_URL,
       license=LICENSE,
-      packages=['KECA',
+      packages=['kernel_eca',
             ],
       classifiers=[
         'Development Status :: 4 - Beta',
