@@ -31,7 +31,7 @@ This is a scikit-learn compatible implementation of Kernel entropy component ana
 For more information, see the github project page:
 http://github.com/
 """
-NAME = "keca"
+NAME = "kernel_eca"
 AUTHOR = "Tobias Sterbak"
 AUTHOR_EMAIL = "sterbak-it@outlook.com"
 MAINTAINER = "Tobias Sterbak"
