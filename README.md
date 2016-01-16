@@ -12,7 +12,7 @@ This is a Python implementation of Kernel Entropy Component Analysis (KECA), com
 This package is pure Python, and depends only on [numpy](http://numpy.org/), [scipy](http://scipy.org/), and [scikit-learn](http://scikit-learn.org/).
 The released version can be installed via pip:
 
-    $ pip install keca
+    $ pip install kernel_eca
 
 A basic example of its use can be found in [Example.ipynb](Example.ipynb).
 
